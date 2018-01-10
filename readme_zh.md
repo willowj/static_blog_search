@@ -1,12 +1,12 @@
 
 
-###pelican静态博客  搜索栏  Js工具
+### pelican静态博客  搜索栏  Js工具
 
 基于tipuesearch 插件生成文章json数据；在pelican 建立的静态博客添加搜索工具对全部md文章搜索；效果如下：
 
 本质还是  json数据 jQuery查询 ，也可以改写 用在其他web前端
 
-![](http://images2017.cnblogs.com/blog/1083549/201801/1083549-20180110132641738-1281463823.gif)
+![](example/example.gif )
 
 try：
 
@@ -39,7 +39,7 @@ try：
 
 
 
-###pelican usage:
+### pelican usage:
 
 - 在 pelicanconf.py 配置文件 添加  [tipuesearch](https://github.com/getpelican/pelican-plugins/tree/master/tipue_search)  插件
 
@@ -66,6 +66,6 @@ try：
 
   ​
 
-###enjoy it
+### enjoy it
 
 recommend  "pelican-toc" plugin for md contents

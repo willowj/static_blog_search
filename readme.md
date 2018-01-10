@@ -8,7 +8,7 @@ Add search  bar in static blog by JavaScript, based in on markdown json file gen
 
  Just jQuery json file 
 
-![](http://images2017.cnblogs.com/blog/1083549/201801/1083549-20180110132641738-1281463823.gif)
+![](example/example.gif )
 
 try：
 
@@ -41,7 +41,7 @@ If use for orther static search or md-content json file is not such format which
 
 
 
-###pelican usage:
+### pelican usage:
 
 - Add  `pelican-plugin`  [tipuesearch](https://github.com/getpelican/pelican-plugins/tree/master/tipue_search)  in your `pelicanconf.py`
 
@@ -71,6 +71,6 @@ If use for orther static search or md-content json file is not such format which
 
   ​
 
-###enjoy it
+### enjoy it
 
 recommend  "pelican-toc" plugin for md contents
