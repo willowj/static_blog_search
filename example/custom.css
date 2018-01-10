@@ -1,0 +1,47 @@
+.twitchy-background {
+    background: #323131 /*#272724*/
+}
+
+/*首页介绍*/
+.jumbotron {
+    padding: 30px 15px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: rgb(255, 255, 255);
+}
+
+#search_query {
+    position: absolute;
+    right: 3%;
+    z-index: 3;
+}
+.search-query form {
+    right: 50px;
+    border-radius:10%;
+}
+
+.search-query input {
+    border:0px;
+    background:  rgba(128, 128, 128, 0.04)
+}
+.search_key{
+    color: chocolate;
+}
+
+#navbar_search_re {
+    width: 320px;
+}
+
+.search_resurlt {
+background: antiquewhite;
+}
+
+.fa-fw {
+    width: 2em;
+    text-align: center;
+    border: 0px;
+    background: white;
+}
+.search_resurlt_item{
+    margin-top: 4px;
+}
